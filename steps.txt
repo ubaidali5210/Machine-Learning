@@ -1,0 +1,7 @@
+1. import libraries
+2. import data
+3. retrieving info() and describe()
+4. finding null values
+5. encoding(converting catagorical data to numaric data)
+6. standerdization  /  normalization
+7. converting array to dataframe
