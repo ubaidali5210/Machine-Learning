@@ -1,0 +1,13 @@
+1. Import libraries (Pipeline, ColumnTransformer, preprocessing, model, metrics)
+2. Load dataset
+3. Drop unnecessary columns (clean data first)
+4. Separate features (X) and target (y)
+5. Split data (train_test_split)
+6. Identify numerical and categorical columns
+7. Create preprocessing pipelines
+8. Numerical → Imputer + Scaler
+9. Categorical → Imputer + Encoder
+10. Apply ColumnTransformer (combine all preprocessing)
+11. Build final Pipeline (preprocessing + model)
+12. Train model (fit)
+13. Predict & evaluate (accuracy_score)
